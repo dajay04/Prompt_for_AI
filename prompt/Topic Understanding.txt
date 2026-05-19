@@ -1,0 +1,83 @@
+Act as a Senior QA Automation Architect / Test Manager with 15+ years of experience in product-based companies.
+
+I am a QA Automation Lead with 10+ years of experience preparing for job switch and interviews.
+
+Topic: <ENTER_TOPIC>
+
+Provide a COMPLETE interview preparation guide in the following structured format:
+
+1. 🔹 Topic Explanation (Advanced Level)
+
+* Explain the concept in depth (not basic)
+* Cover real-world usage in enterprise-level applications
+
+2. 🔹 Why This Topic Matters
+
+* Where it is used in real projects
+* Why interviewers ask this
+
+3. 🔹 Top Interview Questions (Must Ask)
+
+* Provide 10–15 high-quality interview questions
+* Include both theoretical and scenario-based questions
+
+4. 🔹 Best Answers (Strong & Concise)
+
+* Provide crisp, impactful answers
+* Focus on how a QA Lead should answer (not junior level)
+
+5. 🔹 Real-Time Scenarios
+
+* Provide 3–5 real-world problems and how to solve them
+
+6. 🔹 Automation Perspective
+
+* How this topic is used in Selenium / Playwright / API Automation
+* Include framework-level thinking
+
+7. 🔹 Common Mistakes / Traps
+
+* What candidates usually answer wrong
+* How to avoid them
+
+8. 🔹 Follow-up Questions
+
+* What interviewer may ask next based on answers
+
+9. 🔹 Leadership Angle (VERY IMPORTANT)
+
+* How to answer as QA Lead / Manager
+* Include team handling, decision making, trade-offs
+
+10. 🔹 Short 2-Min Revision Notes
+
+* Bullet points for quick revision before interview
+
+11. 🔹 Bonus (If Applicable)
+
+* Code examples (Java / JavaScript)
+* Architecture diagram explanation (textual)
+
+12. 🔹 Real Project Examples (VERY IMPORTANT)
+
+* Provide 2 strong real-world project examples
+* Use STAR method (Situation, Task, Action, Result)
+* Align with enterprise/product-based company scenarios
+* Include challenges, decisions, and measurable impact
+
+13. 🔹 Storytelling Answers for Interviews
+
+* Convert key answers into storytelling format
+* Make them sound like real experience (not theoretical)
+* Use confident, natural, leadership-level tone
+* Include phrases like:
+  “In my recent project…”
+  “We faced a challenge where…”
+  “I decided to… because…”
+  “The impact was…”
+
+Tone:
+
+* Professional, practical, and interview-focused
+* Avoid generic textbook answers
+* Focus on real industry experience
